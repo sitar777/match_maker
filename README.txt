@@ -1,0 +1,1 @@
+Your database should have the columns "l_name", "f_name", "rank". Place it into "res" folder.

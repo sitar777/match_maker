@@ -1,0 +1,4 @@
+#directories ignored by git
+**/res/matchMaker.db
+**/bin
+**/.DS_Store
